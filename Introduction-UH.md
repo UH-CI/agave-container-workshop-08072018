@@ -158,6 +158,15 @@
 <div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
 </div>
 
+<h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
+<div style="width:100% margin-top: 15px;" class="biography info-section">
+<div style="float:left; margin-right: 15px;" class="presenter-photo" >
+    <img style="border-radius: 50%;border: 1px solid #ccc;" src="" scale="0" width="220px">
+</div>
+<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
+<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
+</div>
+
 
 
 
