@@ -2,7 +2,7 @@
 <center><h1>Agave with Containers for Compute and Analysis Workshop</h1>
 <h2>Date: August 7-8th, 2018 9am-4:00pm</h2>
 <h2>Location: Information Technology Center Room 105A/B, UH Manoa</h2></center>
-<h3>Presenters: John Fonner (TACC), Joe Stubbs (TACC), Sean Cleveland(UH), Ron Merrill (UH), David Schanzenbach (UH), and Jennifer Geis(UH)</h3>
+<h3>Presenters: John Fonner (TACC), Joe Stubbs (TACC), Richard Cardone (TACC), Sean Cleveland(UH), Ron Merrill (UH), David Schanzenbach (UH), and Jennifer Geis(UH)</h3>
 <center>
 <img src="https://www.hawaii.edu/wp/wp-content/uploads/2016/06/seal-name@2x.png"/>
 <img src="img/ci-logo.png" alt="Drawing" style="height: 100px;"/>
