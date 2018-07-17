@@ -23,12 +23,12 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:15AM - 10:00AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Jupyter, Sandbox, and Logging In](01-Jupyter-Sandboxes-and-Logging-In.ipynb)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Jupyter, Sandbox, and Logging In</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:00AM - 10:30AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John?</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Agave Overview](https://docs.google.com/presentation/d/1cKXnmUFuGULlSMWsixtitLywcuD9pY7pWaqwdG2FjnI/edit)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Overview</td>
   </tr>
       <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - 10:45AM</td>
@@ -48,12 +48,12 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 2:00 PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Code, Build, and Test](02-Code-Build-and-Test.ipynb) - Apps</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Code, Build, and Test- Apps</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30P<</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Hands on with Agave](03-Hands-on-with-Agave.ipynb)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Hands on with Agave</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:30PM - 2:45PM</td>
@@ -63,12 +63,12 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:45PM - 3:15P<</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Hands on with Agave Continued](03-Hands-on-with-Agave.ipynb)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Hands on with Agave Continued</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:15PM - 4:00PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean/Joe?</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Introduction to Containers](Containers-introduction.ipynb)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Introduction to Containers</td>
   </tr>
   </table>
   
@@ -82,7 +82,7 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">9:15AM - 10:30AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean/Joe?</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Docker and Singularity](04-Docker-and-Singularity.ipynb)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Docker and Singularity</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - 10:45AM</td>
@@ -92,7 +92,7 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:45AM - 12:00PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean/Joe/John?</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Packaging, Publishing, and Portability](06-Packaging-Publishing-Portability.ipynb)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Packaging, Publishing, and Portability</td>
   </tr>
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">12:00PM - 1:00PM</td>
@@ -102,7 +102,7 @@
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 2:00PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[UH HPC](https://github.com/UH-CI/presentations/blob/master/hpc_101/paper.pdf)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">UH HPC Introduction</td>
   </tr>
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30PM</td>
@@ -117,7 +117,7 @@
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:00PM - 3:45PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Agave ToGo](Agave-ToGo.ipynb)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave ToGo</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:45PM - 4:00PM</td>
