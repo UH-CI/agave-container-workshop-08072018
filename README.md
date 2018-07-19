@@ -37,7 +37,7 @@ Attendees will learn about the latest trends in scientific computing and how to 
 ## Registration:
 Registration is limited. <u>Please Register before August 3rd.</u>
 
-<input type="button" onclick="location.href='" value="REGISTER HERE" />
+<input type="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSfrIBgyY-l3W7l5NqUSKURetzTvMCCF4C9iNRVBSg2nuTREEw/viewform?usp=sf_link'" value="REGISTER HERE" />
 
 ## Questions:
 Please email seanbc@hawaii.edu with any questions concerning the workshop.
