@@ -5,7 +5,7 @@
 <h3>Presenters: John Fonner (TACC), Joe Stubbs (TACC), Richard Cardone (TACC), Sean Cleveland(UH), Ron Merrill (UH), David Schanzenbach (UH), and Jennifer Geis(UH)</h3>
 <center>
 <img src="https://www.hawaii.edu/wp/wp-content/uploads/2016/06/seal-name@2x.png"/>
-<img src="img/ci-logo.png" alt="Drawing" style="height: 100px;"/>
+<img src="https://github.com/UH-CI/agave-container-workshop-20180806/blob/master/img/ci-logo.png" alt="Drawing" style="height: 100px;"/>
 <img src="http://www.hawaii.edu/epscor/wp-content/uploads/2018/03/logo-epscor-and-ikewai.jpg" alt="Drawing" style="height: 100px;"/>
 <img src="https://www.raspberrypi.org/app/themes/mind-control/images/icons/tacc.png" width="300px">
 </center>
