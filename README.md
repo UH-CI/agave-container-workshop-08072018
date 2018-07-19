@@ -13,13 +13,13 @@ This FREE workshop is sponsored by the University of Hawai'i Information Technol
 
 This workshop focuses specifically on introducing the Agave platform (http://agaveapi.co), and Container Technologies  that enable advanced compute, data management and analysis on distributed resources.
 
-Attendees will learn about the latest trends in scientific computing and how to access some of these amazing resources,including the UH High Performance computing cluster, for their own research.  In addition attendees will learn how to leverage Agave and Containers for managing their compute and data.  We will introduce other tools such as Docker and Jupyter notebooks that can help enable reproducible scientific analysis.
+Attendees will learn about the latest trends in scientific computing and how to access some of these amazing resources,including the UH High Performance computing cluster, for their own research.  In addition attendees will learn how to leverage Agave and Containers for managing their compute and data.  We will introduce other tools such as Jupyter notebooks that can help enable reproducible scientific analysis.
 
 
 ## Takeaways:
 
 ### By the end of this workshop attendees will be able to:
-* Have a basic understanding of Docker and Singularity containers in relation to science.
+* Have a basic understanding of Singularity containers in relation to science.
 * Create applications using Agave.
 * Use Agave to launch computational jobs.
 * Use Agave to manage data.
