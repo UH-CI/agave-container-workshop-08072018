@@ -35,7 +35,7 @@ Attendees will learn about the latest trends in scientific computing and how to 
 
 
 ## Registration:
-Registration is limited. <u>Please Register before August 3rd.</u>
+Registration is now CLOSED for this workshop.  Thank you for you interest.
 
 <input type="button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSfrIBgyY-l3W7l5NqUSKURetzTvMCCF4C9iNRVBSg2nuTREEw/viewform?usp=sf_link'" value="REGISTER HERE" />
 
