@@ -51,7 +51,7 @@
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">HPC Introduction</td>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30P<</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Singularity Introduction</td>
   </tr>
@@ -61,7 +61,7 @@
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">BREAK</td>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:45PM - 3:45P<</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:45PM - 3:45PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Hands on with Singularity</td>
   </tr>
