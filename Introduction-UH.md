@@ -6,6 +6,9 @@
 **Location:** University of Hawaii ITS Building, Room 105A/B  
 **Website**[Tutorial Website]()  
 
+ETHERPAD:
+<a href="https://public.etherpad-mozilla.org/p/uh-agaveworkshop">https://public.etherpad-mozilla.org/p/uh-agaveworkshop</a>
+
 # Schedule
 
 ## Tuesday August 7th, 2018
@@ -18,17 +21,17 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:00AM - 09:15AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Introductions</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Introduction</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:15AM - 10:00AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Jupyter, Sandbox, and Logging In</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="01-Introduction">Jupyter, Sandbox, and Logging In</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:00AM - 10:30AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Docker and DockerHub Introduction/td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="docker/IntroToDocker">Docker and DockerHub Introduction</a></td>
   </tr>
       <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - 10:45AM</td>
@@ -37,8 +40,8 @@
   </tr>
    <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - Noon</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Docker Continued</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="docker/IntroToDocker">Docker Continued</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">12:00PM - 1:00PM</td>
@@ -48,7 +51,7 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 2:00 PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">HPC Introduction</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="https://drive.google.com/open?id=0B3P67DuP4kVrUVV3Y1U0eFRzU1k">HPC Introduction</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30PM</td>
@@ -123,46 +126,13 @@
 
 ## Presenters
 
-<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="https://aciref.org/wp-content/uploads/2015/07/bio-pic.jpg" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography">Sean Cleveland is a Cyberinfrastructure Research Scientist in the Department of Cyberinfrastructure within Information Technology Services at the University of Hawaii. He focuses on supporting the research mission by providing technology assistance and solutions for researchers across the University of Hawaii system.</div>
-</div></div>
-
-<hr>
-
 <h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
-</div>
-
-
+<hr>
 <h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
-</div>
-
+<hr>
 <h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
-</div>
-
-
+<hr>
+<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span></h3>
 
 
 ### Helpers
@@ -175,13 +145,3 @@ Special Thanks to Michelle Choe for help with setup, check-in and refreshments
 ## Acknowledgement  
 
 This material is based upon work supported by the National Science Foundation Plant Cyberinfrastructure Program (DBI-0735191), the National Science Foundation Plant Genome Research Program (IOS-1237931 and IOS-1237931), the National Science Foundation Division of Biological Infrastructure (DBI-1262414), the National Science Foundation Division of Advanced CyberInfrastructure (1127210), the National Science Foundation Computing and Communication Foundations (1539567), and the National Institute of Allergy and Infectious Diseases (1R01A1097403).
-
-
-## Special thanks
-
-Special thanks go out to ***Rion Dooley*** and ***Steven Brandt*** there contributions to these materials.
-
-### Logistics
-
-
-## https://github.com/UH-CI/agave-container-workshop-20180806
