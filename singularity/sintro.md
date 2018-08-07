@@ -74,7 +74,7 @@ Type in the following:
     Checking connectivity... done.
 ```
 
-###2.4 Check Installation
+### 2.4 Check Installation
 
 Singularity should now be installed on your laptop or VM, or loaded on the HPC, you can check the installation with:
 
