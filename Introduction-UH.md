@@ -18,7 +18,7 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:00AM - 09:15AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Introductions</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Introduction](01-Introduction.md)</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:15AM - 10:00AM</td>
@@ -123,46 +123,13 @@
 
 ## Presenters
 
-<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="https://aciref.org/wp-content/uploads/2015/07/bio-pic.jpg" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography">Sean Cleveland is a Cyberinfrastructure Research Scientist in the Department of Cyberinfrastructure within Information Technology Services at the University of Hawaii. He focuses on supporting the research mission by providing technology assistance and solutions for researchers across the University of Hawaii system.</div>
-</div></div>
-
-<hr>
-
 <h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
-</div>
-
-
+<hr>
 <h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
-</div>
-
+<hr>
 <h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
-<div style="width:100% margin-top: 15px;" class="biography info-section">
-<div style="float:left; margin-right: 15px;" class="presenter-photo" >
-    <img style="border-radius: 50%;border: 1px solid #ccc;" src="" scale="0" width="220px">
-</div>
-<div style="font-size: 1.6rem; line-height: 1.625;font-weight: bold;" class="biography-header">Biography</div>
-<div style="font-size: 1.6rem; line-height: 1.625;" class="presenter-biography"></div>
-</div>
-
-
+<hr>
+<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span></h3>
 
 
 ### Helpers
@@ -175,13 +142,3 @@ Special Thanks to Michelle Choe for help with setup, check-in and refreshments
 ## Acknowledgement  
 
 This material is based upon work supported by the National Science Foundation Plant Cyberinfrastructure Program (DBI-0735191), the National Science Foundation Plant Genome Research Program (IOS-1237931 and IOS-1237931), the National Science Foundation Division of Biological Infrastructure (DBI-1262414), the National Science Foundation Division of Advanced CyberInfrastructure (1127210), the National Science Foundation Computing and Communication Foundations (1539567), and the National Institute of Allergy and Infectious Diseases (1R01A1097403).
-
-
-## Special thanks
-
-Special thanks go out to ***Rion Dooley*** and ***Steven Brandt*** there contributions to these materials.
-
-### Logistics
-
-
-## https://github.com/UH-CI/agave-container-workshop-20180806
