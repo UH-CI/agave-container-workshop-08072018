@@ -31,7 +31,7 @@ We have already configured resources for you to use in this tutorial.
 A training account on the University of Hawaii Agave Platform's public tenant has also been allocated to you.
 
 ## Login
-The Jupyter HUB server is available at uh-jupyter.its.hawaii.edu
+The Jupyter HUB server is available at <a href="https://uh-jupyter.its.hawaii.edu">https://uh-jupyter.its.hawaii.edu</a>
 
 Usernames will be your UH credentials - this uses the UH authentication system and is secure. You will need to "Approve" Agave OAuth access to your profile to complete the login process.
 
