@@ -89,6 +89,19 @@ A few things to consider when using HPC systems:
 2. If you need to edit text files, command line text editors don't support using a mouse, so working efficiently has a learning curve.  There are text editors that support editing files over SSH.  This lets you use a local text editor and just save the changes to the HPC system.
 3. Singularity is in the process of changing image formats.  Depending on the version of Singularity running on the HPC system, new squashFS or .simg formats may not work.
 
+## Directory Mount Points
+
+from [http://singularity.lbl.gov/docs-mount](http://singularity.lbl.gov/docs-mount)
+
+> To mount a bind path inside the container, a bind point must be defined within the container. The bind point is a directory within the container that Singularity can use to bind a directory on the host system. This means that if you want to bind to a point within the container such as /global, that directory must already exist within the container.
+
+On the University of Hawaii HPC systems, most files should be housed on the `/lus` filesystem.  To use that filesystem within your containers, be sure to make a mount point inside the container.  This can be done in Docker or Singularity
+
+For example, in your Dockerfile, you could include:
+
+```
+RUN mkdir /lus
+```
 
 ## Singularity and MPI
 
@@ -195,3 +208,6 @@ On the Hawaii HPC cluster, try running a batch analysis that classifies one or m
 * One or more png files that you intend to classify
 * A job submission script that requests the resources you need and has the commands you wish to execute
 * Note: be sure to load the singularity module
+* Note: try updating your image to include a `/lus` mount point
+
+
