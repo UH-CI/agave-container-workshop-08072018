@@ -126,11 +126,11 @@ ETHERPAD:
 
 ## Presenters
 
-<h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
+<h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
 <hr>
-<h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
+<h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
 <hr>
-<h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
+<h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
 <hr>
 <div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span></h3>
 
