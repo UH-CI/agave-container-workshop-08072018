@@ -23,7 +23,7 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:15AM - 10:00AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="Introduction-UH">Jupyter, Sandbox, and Logging In</a></td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="01-Introduction">Jupyter, Sandbox, and Logging In</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:00AM - 10:30AM</td>
