@@ -65,6 +65,7 @@ On an HPC system, your job submission script would look something like:
   #SBATCH -o example.out                # Standard out goes to this file
   #SBATCH -e example.err                # Standard err goes to this file
 
+  source ~/.bash_profile
   module load singularity
   singularity exec docker://python:latest /usr/local/bin/python --version
 ```
