@@ -23,12 +23,12 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:15AM - 10:00AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Jupyter, Sandbox, and Logging In](01-Introduction)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="Introduction-UH">Jupyter, Sandbox, and Logging In</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:00AM - 10:30AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Docker and DockerHub Introduction](docker/IntroToDocker)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="docker/IntroToDocker">Docker and DockerHub Introduction</a></td>
   </tr>
       <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - 10:45AM</td>
@@ -38,7 +38,7 @@
    <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - Noon</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Docker Continued](docker/IntroToDocker)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="docker/IntroToDocker">Docker Continued</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">12:00PM - 1:00PM</td>
