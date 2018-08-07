@@ -54,7 +54,7 @@ ETHERPAD:
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="https://drive.google.com/open?id=0B3P67DuP4kVrUVV3Y1U0eFRzU1k">HPC Introduction</a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30P<</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Singularity Introduction</td>
   </tr>
@@ -64,7 +64,7 @@ ETHERPAD:
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">BREAK</td>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:45PM - 3:45P<</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:45PM - 3:45PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Hands on with Singularity</td>
   </tr>
@@ -126,11 +126,11 @@ ETHERPAD:
 
 ## Presenters
 
-<h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
+<h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
 <hr>
-<h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
+<h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
 <hr>
-<h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Compute Center</a></span></h3>
+<h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
 <hr>
 <div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span></h3>
 
