@@ -48,7 +48,7 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 2:00 PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">HPC Introduction</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="https://drive.google.com/open?id=0B3P67DuP4kVrUVV3Y1U0eFRzU1k">HPC Introduction</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:00PM - 2:30P<</td>
