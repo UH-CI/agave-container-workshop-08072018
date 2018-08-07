@@ -32,7 +32,8 @@ Attendees will learn about the latest trends in scientific computing and how to 
 * Laptops will require a browser application for accessing Jupyter notebooks and Agave ToGo.
 * A terminal application will be required to use SSH for connecting to the UH HPC Mac and Linux should already have one for Windows we recommend <a href="https://mobaxterm.mobatek.net/download.html">MobaXterm</a>
 
-
+## Schedule
+<a href="https://uh-ci.github.io/agave-container-workshop-20180806/Introduction-UH">Workshop Schedule</a>
 
 ## Registration:
 Registration is now CLOSED for this workshop.  Thank you for you interest.
