@@ -121,15 +121,16 @@ We can also add local files to our image using the `ADD` instruction. We can add
 ADD test.txt /root/text.txt
 ```
 
-A complete Dockerfile for building an image containing the qiime bioinformatics pipeling can be found in the workshop repository:
-
-https://github.com/UH-CI/agave-container-workshop-20180806/blob/master/docker/qiime/Dockerfile
-
 #### Building the Image
 To build an image from a Dockerfile we use the `docker build` command. We use the `-t` flag to tag the image: that is, give our image a name. We also need to specify the working directory for the buid. We specify the current working directory using a dot (.) character:
 ```
 docker build -t workshop_test .
 ```
+
+A complete Dockerfile for building a "real" image containing the qiime bioinformatics pipeling can be found in the workshop repository:
+
+https://github.com/UH-CI/agave-container-workshop-20180806/blob/master/docker/qiime/Dockerfile
+
 
 ### Running a Docker Container
 We use the `docker run` command to run containers from an image. We pass a command to run in the container.
