@@ -6,6 +6,9 @@
 **Location:** University of Hawaii ITS Building, Room 105A/B  
 **Website**[Tutorial Website]()  
 
+ETHERPAD:
+<a href="https://public.etherpad-mozilla.org/p/uh-agaveworkshop">https://public.etherpad-mozilla.org/p/uh-agaveworkshop</a>
+
 # Schedule
 
 ## Tuesday August 7th, 2018
