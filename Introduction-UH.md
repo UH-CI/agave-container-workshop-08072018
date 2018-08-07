@@ -136,11 +136,12 @@ ETHERPAD:
 
 
 ### Helpers
+
 - Ron Merrill - UH ITS Cyberinfrasture
 - David Schanzenbach - UH ITS Cyberinfrastructure
 - Jennifer Geis - UH ITS Cyberinfrastructure
 
-Special Thanks to Michelle Choe for help with setup, check-in and refreshments
+Special Thanks to Michelle Choe, Joyce Chun, Michelle Emoto and Iris Takamiya for help with setup, check-in and refreshments
 
 ## Acknowledgement  
 
