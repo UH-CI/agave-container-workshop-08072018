@@ -2,6 +2,44 @@
 
 <center><a href="https://singularity.lbl.gov"><img height="250" align="middle" src="https://singularity.lbl.gov/images/logo/logo.svg"></a></center>
 
+When using containers for scientific analysis, there are generally 3 ingredients that are being combined:
+
+1. The dependencies for the code or software that you want to run (e.g. python, tensorflow, etc.)
+2. The code or software package itself
+3. the data that the code is consuming to do an analysis
+
+In general, the first two live inside the container.  The third usually changes each time you run the software, so it usually lives outside the container.
+
+Let's start by cementing what you learned in the previous sections on Docker and Singularity and putting it in this context.
+
+## Exercise 1 (15-20 minutes)
+
+Build a Singularity container that implements a simple Tensorflow image classifier.  GPUs are not required for this example; it will just use CPUs.
+
+The image classifier script is available "out of the box" here:
+[https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py](https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py)
+
+This script represents your "code".  This represents something that you might have written that you want to package up into a portable container.
+
+You also need to choose an image to classify.  You might call it "cat.png", for example.  This represents your data.  Data normally isn't packaged into a container, though it could be.  There are better ways for preserving and sharing data than containers.
+
+Tensorflow has working Docker containers on DockerHub that you can use to support all the dependencies.  For example, the first line of your Dockerfile might look like:
+
+```
+  FROM tensorflow/tensorflow:1.5.0-py3
+```
+
+When running the image classifier, the non-containerized version would be invoked with something like:
+
+```
+  python /classify_image.py --image_file cat.png
+```
+
+You can use a Singularity file or a Dockerfile to help you.  For reference, you can look back at the previous material or the respective manual pages:
+
+- [http://singularity.lbl.gov/docs-build-container](http://singularity.lbl.gov/docs-build-container)
+- [https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)
+
 
 ## Using HPC Environments
 
@@ -149,30 +187,11 @@ For TensorFlow, you can directly pull their latest GPU image and utilize it as f
 
 You may be thinking “what about overlayFS??”. Stampede2 supports it, but the Linux kernel on the other systems does not support overlayFS, so it had to be disabled in our Singularity install.  This may change as new Singularity versions are released.
 
-## Hands-On Exercise
+## Exercise 2 (5-10 minutes)
 
-Build a Singularity container that implements a simple Tensorflow image classifier.  GPUs are not required for this example; it will just use CPUs.
+On the Hawaii HPC cluster, try running a batch analysis that classifies one or more images using the image classifier container you created in Exercise 1.  You will need:
 
-The image classifier script is available "out of the box" here:
-[https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py](https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py)
-
-This script represents your "code".  This represents something that you might have written that you want to package up into a portable container.
-
-You also need to choose an image to classify.  You might call it "cat.png", for example.  This represents your data.  Data normally isn't packaged into a container, though it could be.  There are better ways for preserving and sharing data than containers.
-
-Tensorflow has working Docker containers on DockerHub that you can use to support all the dependencies.  For example, the first line of your Dockerfile might look like:
-
-```
-  FROM tensorflow/tensorflow:1.5.0-py3
-```
-
-When running the image classifier, the non-containerized version would be invoked with something like:
-
-```
-  python /classify_image.py --image_file cat.png
-```
-
-You can use a Singularity file or a Dockerfile to help you.  For reference, you can lookback at the "Singularity Intro" section on building Singularity images, yesterday's material on building Dockerfiles, or the respective manual pages:
-
-- [http://singularity.lbl.gov/docs-build-container](http://singularity.lbl.gov/docs-build-container)
-- [https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)
+* A Singularity image or an image on DockerHub that you can pull down
+* One or more png files that you intend to classify
+* A job submission script that requests the resources you need and has the commands you wish to execute
+* Note: be sure to load the singularity module
