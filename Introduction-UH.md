@@ -18,17 +18,17 @@
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:00AM - 09:15AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Introduction](01-Introduction.md)</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Introduction</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">09:15AM - 10:00AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Jupyter, Sandbox, and Logging In</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Jupyter, Sandbox, and Logging In](01-Introduction)</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:00AM - 10:30AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Docker and DockerHub Introduction/td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Docker and DockerHub Introduction](docker/IntroToDocker)</td>
   </tr>
       <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - 10:45AM</td>
@@ -37,8 +37,8 @@
   </tr>
    <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - Noon</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Docker Continued</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">[Docker Continued](docker/IntroToDocker)</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">12:00PM - 1:00PM</td>
