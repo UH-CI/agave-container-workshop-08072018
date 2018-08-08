@@ -2,6 +2,8 @@ Tutorial: Getting Started with Agave CLI
 ===============================================
 The following instructions will guide you through setting up Agave-based access to the University of Hawaii HPC system using the Agave ToGo web interface.  As an aside, everything we do today can also be accomplished from a command line interface or by directly calling API endpoints.  
 
+The Agave CLI commands all respond with help for -h and return back information on the parameters that can be passed.  Also note that in Jupyter you can start typing a command and use tab auto-complete or list the options which is useful when looking for some of the CLI commands.  We can for example try this with "system"
+
 Need help?  Ask your questions using [Agave’s Slack communication channel](https://slackin.agaveapi.co).
 
 Initial Requirements
