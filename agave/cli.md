@@ -33,7 +33,7 @@ You are ready to move on to setting up systems!
 Command Line Access
 ===================
 
-We won't use it in this workshop, but everything we do today can also be done from the shell using the Agave CLI tools.  Instructions for installing those tools at the UH HPC system is below:
+We won't install it in this workshop, but everything we do today can also be done from the standard shell using the Agave CLI tools.  Instructions for installing those tools at the UH HPC system is below:
 
 Installing the Agave CLI Tools
 ------------------------------
