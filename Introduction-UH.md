@@ -83,9 +83,14 @@ ETHERPAD:
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Recap from Tuesday</td>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">9:15AM - 10:30AM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">9:15AM - 10:00AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Introduction</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:00AM - 10:30AM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave CLI, Auth and Systems</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:30AM - 10:45AM</td>
@@ -95,7 +100,7 @@ ETHERPAD:
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:45AM - 12:00PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">John</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Continued - Systems, Files and Building Application</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Continued - Building Applications and Launching Jobs</td>
   </tr>
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">12:00PM - 1:00PM</td>
@@ -103,9 +108,14 @@ ETHERPAD:
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">LUNCH</td>
   </tr>
     <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 2:30PM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 1:30{M</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Sharing, File Transfer and Jobs</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Files</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:30PM - 2:00PM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sharing and Metadata</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:30PM - 2:45PM</td>
@@ -115,12 +125,7 @@ ETHERPAD:
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:45PM - 3:45PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Next Steps</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:45PM - 4:00PM</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Closing</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Closing - Questions and Help From the Presenters</td>
   </tr>
 </table>
 
