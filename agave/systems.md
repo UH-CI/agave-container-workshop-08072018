@@ -41,7 +41,7 @@ Within Agave ToGo, click on `Systems` in the navigation bar on the left.
 
 As a hands on exercise, using Agave ToGo, register you Jetstream VM as data storage system using PASSWORD authentication. Don't forget to replace USERNAME and VM_IPADDRESS.
 
-For this workshop, we will also add the UH HPC Lustre filesystem but this time lets use SSHKEYs authentication as this is more secure that PASSWORD authentication, if ssh keys are cycled regularly. For the root /lus/scratch and for home /USERNAME.  See <a href="agave/uhhpc-storage.json">UHHPC Storage JSON File</a> for sample JSON.
+For this workshop, we will also add the UH HPC Lustre filesystem but this time lets use SSHKEYs authentication as this is more secure that PASSWORD authentication, if ssh keys are cycled regularly. For the root /lus/scratch and for home /USERNAME.  See <a href="uhhpc-storage.json">UHHPC Storage JSON File</a> for sample JSON.
 
 ```
 ssh-keygen -t rsa -b 4096
@@ -201,7 +201,7 @@ http://developer.agaveapi.co/#systems
 ### Hands-on
 As a hands on exercise, register your Jetstream VM as a CLI execution system.  
 
-Also register the UH HPC as an execution system using he above JSON. - Don't forget to change USERNAME to your UH username.
+Also register the UH HPC as an execution system using he above JSON. - Don't forget to change USERNAME to your UH username.  See <a href="uhhpc-exec.json">UHHPC Execution JSON File</a> or the above for sample JSON.
 
 In you bash notebook you can now get a list of your systems using:
 ```
