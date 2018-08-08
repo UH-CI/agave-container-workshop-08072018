@@ -69,6 +69,8 @@ We can create directories on remote systems using Agave with the `files-mkdir` c
 files-mkdir -S jfs-vm -N data
 ```
 
+Try the following exercise.
+
 ```
 Exercise. Create a test directory on both your VM and your UHM Lustre storage. Try using both relative and absolute
 paths.
@@ -100,6 +102,8 @@ Downloading files from remote storage to your local computer is done with the `f
 files-get -S jfs-vm data/test2.txt
 ```
 
+Try the following exercise.
+
 ```
 Exercise. Create a file in your Jupyter notebook. Upload the file to your VM. Rename the file on the remote storage
 and then download the files with the new name.
@@ -121,12 +125,11 @@ Transferring files is done using the `files-import` command. Keep in mind the fo
 # transfer the test2.txt file within the data directory of the homeDir on the jfs-vm to the homeDir on the jfs-hpc-stor system
 files-import -U agave://jfs-vm/data/test2.txt -S jfs-hpc-stor .
 
-```
-
-```
 # copy the classify_image.py file to our Lustre storage:
 files-import -U https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py -S jfs-hpc-stor
 ```
+
+Try the following exercise.
 
 ```
 Exercise. Transfer a file from your VM to your UHM Lustre storage and check that the transfer completed correctly.
