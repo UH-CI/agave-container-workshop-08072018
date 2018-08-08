@@ -4,7 +4,7 @@ The following instructions will guide you through setting up Agave-based access 
 
 The Agave CLI commands all respond with help for -h and return back information on the parameters that can be passed.  Also note that in Jupyter you can start typing a command and use tab auto-complete or list the options which is useful when looking for some of the CLI commands.  We can for example try this with "system"
 
-Need help?  Ask your questions using [Agave’s Slack communication channel](https://slackin.agaveapi.co).
+Need help?  Ask your questions using [Agave’s Slack communication channel](https://bit.ly/2M0SF49).
 
 Initial Requirements
 ===============================================
