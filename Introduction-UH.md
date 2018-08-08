@@ -85,7 +85,7 @@ ETHERPAD:
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">9:15AM - 10:00AM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Introduction</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Agave Introduction, https://agaveapi.co/</td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">10:00AM - 10:30AM</td>

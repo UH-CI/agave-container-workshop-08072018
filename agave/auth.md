@@ -1,4 +1,5 @@
-##Authentication
+Authentication
+===============================================
 
 The Agave API uses OAuth 2 for managing authentication and authorization. Luckily for this tutorial our JupyterHub already has a client that we authenticated earlier when we logged and clicked "approve" also we have the ability to fetch and store an authentication token in our session.
 
