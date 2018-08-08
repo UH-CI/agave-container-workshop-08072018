@@ -52,6 +52,7 @@ files-list -S jfs-vm /etc
 
 # pass a -V to show the curl command and get the raw JSON response
 files-list -V -S jfs-vm foo
+```
 
 
 ```
