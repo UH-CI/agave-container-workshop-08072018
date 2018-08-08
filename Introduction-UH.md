@@ -115,7 +115,7 @@ ETHERPAD:
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:30PM - 2:00PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Sean</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="agave/shargin">Sharing</a> and Metadata</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="agave/shargin">Sharing</a> and <a href="agave/metadata">Metadata</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">2:30PM - 2:45PM</td>

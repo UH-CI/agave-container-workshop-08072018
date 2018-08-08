@@ -125,9 +125,11 @@ metadata-list -v -Q '{"value.author":"Sean Cleveland"}'
 ```
 
 ## Metadata as Data
+Since the metadata store in Agave is MongoDB and accepts JSON we can store data as JSON if we desire and for some projects we have.
 
+So for a concurrent workshop on Hilo some user have the loggers to push data into the IkeWai system.  The loggers are using curl or similar software to make HTTP REST calls to Agave.
 
-So for the loggers to push data into IkeWai in a similar way as chords   :  
+We can do the same with the uhhpctenant Agave system.
 here is an example test.json file
 ```
 {"name":"site1","value":[{"date":"2018-07-31T16:07:56+00:00"},{"tempc":"30.5"},{"diss_ox":"0.2"}]}
