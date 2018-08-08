@@ -202,5 +202,3 @@ http://developer.agaveapi.co/#systems
 As a hands on exercise, register your Jetstream VM as a CLI execution system.  
 
 Also register the UH HPC as an execution system using he above JSON. - Don't forget to change USERNAME to your UH username.
-
-[Back](index.md) | [Next: Creating an App](rscript-app.md)
