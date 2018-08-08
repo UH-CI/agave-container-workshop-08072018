@@ -9,7 +9,7 @@ Storage systems tell Agave where data resides.  You can store files for running 
 ```json
 {
   "site": "https://uh-ci.github.io/agave-container-workshop-20180806/",
-  "id": "",
+  "id": "USERNAME-workshop-vm-storage",
   "default": false,
   "status": "UP",
   "description": "Agave workshop VM storage system using SFTP on Jetstream",
