@@ -1,0 +1,23 @@
+{
+  "site": "hawaii.edu",
+  "id": "",
+  "default": false,
+  "status": "UP",
+  "description": "UH HPC Lustre storage system using SFTP at the University of Hawaii",
+  "name": "UH HPC1 SFTP Lustre Storage System",
+  "available": true,
+  "public": false,
+  "type": "STORAGE",
+  "storage": {
+    "mirror": false,
+    "port": 22,
+    "homeDir": "/lus/scratch/USERNAME",
+    "protocol": "SFTP",
+    "host": "uhhpc1.its.hawaii.edu",
+    "proxy": null,
+    "rootDir": "/",
+    "auth": {
+      "type": "PASSWORD"
+    }
+  }
+}
