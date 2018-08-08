@@ -54,6 +54,7 @@ files-list -S jfs-vm /etc
 files-list -V -S jfs-vm foo
 ```
 
+Try the following exercise.
 
 ```
 Exercise. Try listing directory content on your VM and your UHM Lustre storage.
