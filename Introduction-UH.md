@@ -110,7 +110,7 @@ ETHERPAD:
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 1:30PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="agave/files">Agave Files</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="agave/files">Agave Files</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:30PM - 2:00PM</td>
