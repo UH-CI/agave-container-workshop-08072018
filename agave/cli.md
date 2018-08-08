@@ -50,12 +50,12 @@ Now, load the Python module
 
 ```module load lang/Python/2.7.10/python```
 
-Download the CLI tools from GitHub
+Download the CLI tools from BitBucket
 ----------------------------------
 
 ```
 cd
-git clone https://bitbucket.org/agaveapi/cli.git
+git clone https://bitbucket.org/tacc-cic/cli
 ```
 
 Add the tools to your PATH and source your ```.bashrc```
@@ -79,7 +79,7 @@ Agave CLI (revision v2-r70d3860)
 Updating the SDK
 ----------------
 
-In the future, you can update the CyVerse CLI automatically to the latest version by typing
+In the future, you can update the Agave CLI automatically to the latest version by typing
 
 ```cd ~/cli && git pull```
 
@@ -92,12 +92,8 @@ UH tenant by doing this by entering:
 
 ```
 mkdir ~/.agave
-wget -O ~/.agave/current https://raw.githubusercontent.com/UH-CI/genomics-workshop-04122017/gh-pages/agave/current
+wget -O ~/.agave/current https://raw.githubusercontent.com/UH-CI/agave-container-workshop-20180806/master/agave/current
 ```
 
 That command will place the University of Hawaii tenant information into a cache
-file that the CLI tools will look for
-
-
-
-[Back](../index.md) | [Next: Creating an OAuth2 client and getting a set of keys](getting-started-client-create.md)
+file that the CLI tools will look for when making API calls.

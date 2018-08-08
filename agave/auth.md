@@ -32,13 +32,13 @@ You will be prompted for your University of Hawai'i username and password. Enter
 {
     "_links": {
         "self": {
-            "href": "https://agave.iplantc.org/clients/v2/my_client"
+            "href": "https://uhhpctenant.its.hawaii.edu/clients/v2/my_client"
         },
         "subscriber": {
-            "href": "https://agave.iplantc.org/profiles/v2/vaughn"
+            "href": "https://uhhpctenant.its.hawaii.edu/profiles/v2/vaughn"
         },
         "subscriptions": {
-            "href": "https://agave.iplantc.org/clients/v2/my_client/subscriptions/"
+            "href": "https://uhhpctenant.its.hawaii.edu/clients/v2/my_client/subscriptions/"
         }
     },
     "callbackUrl": "",
@@ -55,7 +55,7 @@ You will need access to the ```consumerKey``` and ```consumerSecret``` values wh
 Obtaining an OAuth 2 authentication token
 =========================================
 
-Tokens are a form of short-lived, temporary authenticiation and authorization used in place of your username and password. To interact Agave and other CyVerse APIs, you will need to acquire one. Each CyVerse token expires after 4 hours, but can easily be refreshed.
+Tokens are a form of short-lived, temporary authenticiation and authorization used in place of your username and password. To interact Agave, you will need to acquire one. Each Agave token, typically, expires after 4 hours, but can easily be refreshed.
 
 On a host where you have configured an OAuth2 client already, the command to get a new token is:
 
@@ -86,7 +86,7 @@ This tutorial won't take very long, but if you are interrupted and come back lat
 A successful refresh should appear:
 
 ```
-Token for iplantc.org:vaughn successfully refreshed and cached for 3600 seconds
+Token for uhhpctenant.its.hawaii.edu:seanbc successfully refreshed and cached for 3600 seconds
 {
     "access_token": "abc1235418ffce0da7fbdcb193d0ef",
     "expires_in": 3600,
@@ -97,5 +97,3 @@ Token for iplantc.org:vaughn successfully refreshed and cached for 3600 seconds
 ```
 
 This topic is covered in great detail at the Agave [Authorization Guide](http://developer.agaveapi.co/#authorization)
-
-*
