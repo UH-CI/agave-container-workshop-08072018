@@ -202,3 +202,18 @@ http://developer.agaveapi.co/#systems
 As a hands on exercise, register your Jetstream VM as a CLI execution system.  
 
 Also register the UH HPC as an execution system using he above JSON. - Don't forget to change USERNAME to your UH username.
+
+In you bash notebook you can now get a list of your systems using:
+```
+systems-list
+```
+
+If you want to view just the storage systems you can use -S. For execution systems use -E.
+
+We can also set a default storage system that Agave can default to:
+
+```
+systems-setdefault USERNAME-workshop-uhhpc-lustre
+```
+
+Agave ToGo uses the default storage system when accessing the "Data" tab unless you choose to "Browse" on a particular system.
