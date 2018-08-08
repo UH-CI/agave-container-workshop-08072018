@@ -1,0 +1,98 @@
+{
+  "maxSystemJobs": 50,
+  "workDir": "",
+  "scratchDir": "/lus/scratch/USERNAME/",
+  "type": "EXECUTION",
+  "id": "",
+  "description": "Execution system using ssh to submit jobs to the UH ITS HPC. By default, it uses the Sandbox queue.",
+  "name": "UH ITS HPC SSH Execution Host",
+  "login": {
+    "port": 22,
+    "protocol": "SSH",
+    "host": "uhhpc1.its.hawaii.edu",
+    "proxy": null,
+    "auth": {
+      "type": "PASSWORD"
+    }
+  },
+  "maxSystemJobsPerUser": 10,
+  "site": "hawaii.edu",
+  "status": "UP",
+  "scheduler": "SLURM",
+  "environment": null,
+  "executionType": "HPC",
+  "queues": [{
+    "maxProcessorsPerNode": 20,
+    "default": false,
+    "maxMemoryPerNode": "120GB",
+    "mappedName": null,
+    "description": "",
+    "name": "community.q",
+    "maxRequestedTime": "72:00:00",
+    "maxJobs": 25,
+    "customDirectives": null,
+    "maxNodes": 5,
+    "maxUserJobs": 5
+  }, {
+    "maxProcessorsPerNode": 20,
+    "default": false,
+    "maxMemoryPerNode": "120GB",
+    "mappedName": null,
+    "description": "",
+    "name": "kill.q",
+    "maxRequestedTime": "72:00:00",
+    "maxJobs": 25,
+    "customDirectives": null,
+    "maxNodes": 5,
+    "maxUserJobs": 5
+  }, {
+    "maxProcessorsPerNode": 20,
+    "default": true,
+    "maxMemoryPerNode": "120GB",
+    "mappedName": null,
+    "description": "",
+    "name": "sb.q",
+    "maxRequestedTime": "01:00:00",
+    "maxJobs": 25,
+    "customDirectives": null,
+    "maxNodes": 2,
+    "maxUserJobs": 5
+  }, {
+    "maxProcessorsPerNode": 20,
+    "default": true,
+    "maxMemoryPerNode": "120GB",
+    "mappedName": null,
+    "description": "",
+    "name": "bioworkshop",
+    "maxRequestedTime": "72:00:00",
+    "maxJobs": 25,
+    "customDirectives": null,
+    "maxNodes": 2,
+    "maxUserJobs": 5
+  }, {
+    "maxProcessorsPerNode": 20,
+    "default": false,
+    "maxMemoryPerNode": "120GB",
+    "mappedName": null,
+    "description": "",
+    "name": "exclusive.q",
+    "maxRequestedTime": "72:00:00",
+    "maxJobs": 25,
+    "customDirectives": null,
+    "maxNodes": 5,
+    "maxUserJobs": 5
+  }],
+  "public": false,
+  "storage": {
+    "mirror": false,
+    "port": 22,
+    "homeDir": "/home/USERNAME",
+    "protocol": "SFTP",
+    "host": "uhhpc1.its.hawaii.edu",
+    "proxy": null,
+    "rootDir": "/",
+    "auth": {
+      "type": "PASSWORD"
+    }
+  }
+}
