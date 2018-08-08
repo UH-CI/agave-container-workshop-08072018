@@ -12,7 +12,7 @@
     "host": "uhhpc1.its.hawaii.edu",
     "proxy": null,
     "auth": {
-      "type": "PASSWORD"
+      "type": "SSHKEYS"
     }
   },
   "maxSystemJobsPerUser": 10,
@@ -92,7 +92,7 @@
     "proxy": null,
     "rootDir": "/",
     "auth": {
-      "type": "PASSWORD"
+      "type": "SSHKEYS"
     }
   }
 }

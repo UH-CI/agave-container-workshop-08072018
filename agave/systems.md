@@ -39,9 +39,10 @@ Within Agave ToGo, click on `Systems` in the navigation bar on the left.
 
 ### Hands-on
 
-As a hands on exercise, register you Jetstream VM as data storage system using PASSWORD authentication.  
+As a hands on exercise, using Agave ToGo, register you Jetstream VM as data storage system using PASSWORD authentication. Don't forget to replace USERNAME and VM_IPADDRESS.
 
-For this workshop, we will also add the UH HPC Lustre filesystem but this time lets use SSHKEYs authentication as this is more secure that PASSWORD authentication, if ssh keys are cycled regularly.
+For this workshop, we will also add the UH HPC Lustre filesystem but this time lets use SSHKEYs authentication as this is more secure that PASSWORD authentication, if ssh keys are cycled regularly. For the root /lus/scratch and for home /USERNAME.  See <a href="agave/uhhpc-storage.json">UHHPC Storage JSON File</a> for sample JSON.
+
 ```
 ssh-keygen -t rsa -b 4096
 ```
