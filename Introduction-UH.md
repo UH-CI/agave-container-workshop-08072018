@@ -137,7 +137,7 @@ ETHERPAD:
 <hr>
 <h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span><br><span style="font-size: .8em">email: rcardone@tacc.utexas.edu</span></h3>
 <hr>
-<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span><br><span style="font-size: .8em">email: seanbc@hawaii.edu</span></span></h3>
+<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span><br><span style="font-size: .8em">email: seanbc@hawaii.edu</span></h3>
 
 
 ### Helpers
