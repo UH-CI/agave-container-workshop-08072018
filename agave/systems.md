@@ -93,7 +93,7 @@ Execution systems in Agave are very similar to storage systems.  They just have 
   "workDir": "",
   "scratchDir": "/lus/scratch/USERNAME/",
   "type": "EXECUTION",
-  "id": "",
+  "id": "USERNAME-uhhpc-execute",
   "description": "Execution system using ssh to submit jobs to the UH ITS HPC. By default, it uses the Sandbox queue.",
   "name": "UH ITS HPC SSH Execution Host",
   "login": {

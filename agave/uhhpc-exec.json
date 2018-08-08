@@ -3,7 +3,7 @@
   "workDir": "",
   "scratchDir": "/lus/scratch/USERNAME/",
   "type": "EXECUTION",
-  "id": "",
+  "id": "USERNAME-uhhpc-execute",
   "description": "Execution system using ssh to submit jobs to the UH ITS HPC. By default, it uses the Sandbox queue.",
   "name": "UH ITS HPC SSH Execution Host",
   "login": {
@@ -12,7 +12,7 @@
     "host": "uhhpc1.its.hawaii.edu",
     "proxy": null,
     "auth": {
-      "type": "SSHKEYS"
+      "type": "PASSWORD"
     }
   },
   "maxSystemJobsPerUser": 10,
@@ -63,12 +63,12 @@
     "maxMemoryPerNode": "120GB",
     "mappedName": null,
     "description": "",
-    "name": "bioworkshop",
+    "name": "uhagave.q",
     "maxRequestedTime": "72:00:00",
-    "maxJobs": 25,
+    "maxJobs": 1,
     "customDirectives": null,
-    "maxNodes": 2,
-    "maxUserJobs": 5
+    "maxNodes": 1,
+    "maxUserJobs": 1
   }, {
     "maxProcessorsPerNode": 20,
     "default": false,
@@ -92,7 +92,7 @@
     "proxy": null,
     "rootDir": "/",
     "auth": {
-      "type": "SSHKEYS"
+      "type": "PASSWORD"
     }
   }
 }
