@@ -96,7 +96,7 @@ username READ WRITE EXECUTE
 To add permissions for another user (in this case with username '`collaborator`')
 to view the file, use the `files-pems-update` command:
 ```
-% files-pems-update -U collaborator -P ALL workshop/my_file.txt
+% files-pems-update -U collaborator -P ALL -S username-workshop-storage workshop/my_file.txt
 % files-pems-list -S username-workshop-storage workshop/my_file.txt
 
 collaborator READ WRITE EXECUTE
