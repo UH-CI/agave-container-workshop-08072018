@@ -78,44 +78,6 @@ tenant, and import data from the web. Use your best judgement in deciding
 whether to copy shared data or link against shared data with the understanding
 that storage space is limited.
 
-<br>
-#### Find another user
-To share a file with another user on the UH tenant, you must first know their
-username. The Agave CLI has a set of tools that can be used to find other users.
-View your own user profile by issuing:
-
-```
-% profiles-list -v me
-{
-  "first_name": "Joe",
-  "last_name": "User",
-  "full_name": "juser",
-  "email": "juser@example.org",
-  "phone": "",
-  "mobile_phone": "",
-  "status": "",
-  "create_time": "20150223162108Z",
-  "username": "juser"
-}
-```
-
-Each of the fields stored in the JSON object is queryable using the profiles-search
-command. Some more common examples include:
-```
-# Search for another user by first name
-% profiles-search --rich --filter first_name,last_name,email,username 'first_name=Joe'
-
-# Search for another user by last name
-% profiles-search --rich --filter first_name,last_name,email,username 'last_name=User'
-
-# Search for another user by e-mail address
-% profiles-search --rich --filter first_name,last_name,email,username 'email=juser@example.org'
-```
-
-The `--rich` flag summarizes part of the JSON response in a human-friendly
-table, and the `--filter` flag specifies which of the available fields you would
-like to see.
-
 
 <br>
 #### Share files with another user
