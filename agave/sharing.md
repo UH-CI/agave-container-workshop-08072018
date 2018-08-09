@@ -112,7 +112,7 @@ Next, the collaborator needs the correct permissions to access your STORAGE
 system. To see who has access to your STORAGE system, perform:
 ```
 % systems-roles-list username-workshop-storage
-username ADMIN
+username OWNER
 ```
 
 To add your collaborator to your system, use the `systems-roles-addupdate` command:
@@ -122,7 +122,7 @@ Successfully updated roles for user collaborator on username-workshop-storage
 
 % systems-roles-list username-workshop-storage
 collaborator GUEST
-username ADMIN
+username OWNER
 ```
 
 Now, a user with username `collaborator` can see files with the appropriate
