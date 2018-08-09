@@ -110,7 +110,7 @@ ETHERPAD:
     <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:00PM - 1:30PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Joe</td>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="agave/files">Agave Files</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; "><a href="agave/files">Agave Files</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">1:30PM - 2:00PM</td>
@@ -131,13 +131,13 @@ ETHERPAD:
 
 ## Presenters
 
-<h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
+<h3>John Fonner <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span><br><span style="font-size: .8em">email: jfonner@tacc.utexas.edu</span></h3>
 <hr>
-<h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
+<h3>Joe Stubbs <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span><br><span style="font-size: .8em">email: jstubbs@tacc.utexas.edu</span></h3>
 <hr>
-<h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span></h3>
+<h3>Richard Cardone <br><span style="font-size: .8em"><a href="https://tacc.texase.edu/">Texas Advanced Computing Center</a></span><br><span style="font-size: .8em">email: rcardone@tacc.utexas.edu</span></h3>
 <hr>
-<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span></h3>
+<div><h3>Sean Cleveland<br><span style="font-size: .8em"><a href="https://hawaii.edu/">University of Hawaii</a></span><br><span style="font-size: .8em">email: seanbc@hawaii.edu</span></h3>
 
 
 ### Helpers
